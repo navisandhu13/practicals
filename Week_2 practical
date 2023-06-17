@@ -1,0 +1,27 @@
+I started this practical in my class at first all students was given a list of options of localhost that we can install on our laptops 
+but I found Xampp is more interactive and more useful I guess so it will be in future
+I installed xampp successfully then started installing joomla but after successful instalation I copied all files under htdocs under folder names Joomla_4 then tried opeing it but I did not knew that localhost is case sensitive so I need to be very accurate with names 
+and eveything. But after entring correct details as well I was not able to launch it 
+I started receiving error 403 something like no access 
+I showed it to my lectuer she checked and provided me with link from where I can follow steps to fix that error 
+A actual error was fixed luckily now atleast my Joomla was launched but I received anoher erorr saying 
+An error has occurred while processing your request.
+0 Failed opening required '/Applications/XAMPP/xamppfiles/htdocs/Joomla_4/administrator/cache/autoload_psr4.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php')
+I got so ancious that what is this happening with me I am trying my best but error coming up one by one and now Time had run out it was almost finish of our class
+and I am unable to finish as some errors I was receiving while installing joomla on my pc. I thought I will give it a go at home. 
+
+Now after watching step to step video on youtube i followed everystep thoroghly and found I did not created database with sme name and I did not changed permissions 
+by going to settings and apply to all enclosed files of joomla folder and making all of them as read and write. 
+After doing all these I refreshed my browser and hurray my Joomla was successfully launched with no erorr now screen came up with instalation I followed everything from that youtube video and installed joomla successfully. 
+
+I started building my website on my own business theme Which I will be launching soon this year it will be a small business of selling goods and things related to designer dine in, or home theme
+Name of this business is C.K. Closet Coture. 
+At this moment atleast I know That I need to create a ecommerce website so figured everything out 
+I started by editing template on Joomla started figuring out some features and editing features it provides 
+I created three pages names team gallery about 
+I have created a logo using canva so i added logo as well 
+I am not sure with theme or anything yet but will fix these at later stages 
+for now I have completed this practicle and adding link of my startup site as well 
+
+login details for my admin site are 
+Resources :- https://community.apachefriends.org/f/viewtopic.php?f=29&t=35490
