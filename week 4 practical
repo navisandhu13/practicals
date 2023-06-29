@@ -1,0 +1,24 @@
+Learning Activities/ Resources 
+this practical we been asked to download and install Vagrant and wordmove on the top 
+I thought I have already completed during previous weeks
+setting up local host that is XAMPP for me downloading joomla and wordpress on laptops and copying them to htdocs that is going to be root folder 
+creating databases from phpadmin and installing joomla and wordpress one by one 
+earlier so many errors came up but luckily all fixed with help of lecturer and online support now both websites working good locally 
+successfully launched.
+
+But I found out for this practical vagrant and workmove is must 
+
+estimated time :-
+3  hours this time including time of installation and downloading.
+
+Content insights:- 
+I browsed all features checked what i can do with localhost and how it is going to be benificial I found how usefull wordmove is Create and deploy websites using content management systems,including 
+creating and editing content, creating custom templatesor themes, and performing site management Examine installation and maintenance considerations for modernwebsites Appraise different options 
+for development workflows of CMS sites
+
+I never used vvv Vagrant before but found out that VVV is a local developer environment, mainly aimed at WordPress developers. It uses Vagrant and VirtualBox/Parallels/HyperV to create a
+linux server environment for building sites, and contributing to WordPress itself.
+
+As I am using macos I got binary options to download vargrant SoI downloaded AMD64
+
+
