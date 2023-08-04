@@ -6,18 +6,15 @@ this practical we been asked to create a child theme out of parent theme, as tau
 estimated time :-
 3  hours this time including time of watching tutorials.
 
-Resources I used 
+Resources I used:- 
+Provided in lecture Notes 
+Links Provided in Practical githubs 
 
 Content insights:- 
-I browsed all features checked what i can do with localhost and how it is going to be benificial I found how usefull wordmove is Create and deploy websites using content management systems,including 
-creating and editing content, creating custom templatesor themes, and performing site management Examine installation and maintenance considerations for modernwebsites Appraise different options 
-for development workflows of CMS sites
-
-I never used vvv Vagrant before but found out that VVV is a local developer environment, mainly aimed at WordPress developers. It uses Vagrant and VirtualBox/Parallels/HyperV to create a
-linux server environment for building sites, and contributing to WordPress itself.
-
-As I am using macos I got binary options to download vargrant SoI downloaded AMD64. It installed successfully as well, but I started getting troubles in installing virtualbox it says cannot download virtual box
-In bash I uninstalled Vagrant as my lecturer told me it might be because I downloaded vagrant before vitualbox, but still issue is same I was not even receiving any clue why I cannot install it it downloaded successfully 
-but I cannot instal it, watched many videos some says something tried every way but still problem is still same not recovered at all.
+In this practical I learnt how to create child theme from parent theme in wordpress I used twenty twenty two so I created twentytwenty.child theme in wordpress i watched some tutorials
+on internet and browsed some work and learnt many features I was so excited that child theme can get its individual feautres and can inherit some from its parent theme.
+I used local as local host instead of vagrant and virtual box as told by my classmate Inderjot,
 
 Career/Employbility
+by this practical it gave me knowledge of how to create child theme from any parent theme and how things work in that. It will be helping me in gaining job in web development and now i can see that in this era everyone 
+looking for cms organisers and person who can work with different platforms on their own which wil going to help me after completion of this course.
