@@ -1,1 +1,26 @@
+Learning Journal Week 9
+Navjot Kaur
+jc686514
 
+Learning Activities & Resources
+
+This week I started practical by watching Linkedin learning courses given in the subject resources under  
+https://www.linkedin.com/learning/sass-essential-training-15630917/how-can-sass-help-build-sites?u=2223545
+
+Additional Resources - youtube videos
+https://www.youtube.com/watch?v=_kqN4hl9bGc&list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb
+https://www.youtube.com/watch?v=9Ld-aOKsEDk
+
+
+Estimated Hours
+
+Around 3.5 Hours including time taken to watch 
+
+Content Insights:-
+Sass makes CSS modification easier and allows for a modular approach to dealing with it. Developers that use Sass can adhere to the DRY (Don't Repeat Yourself) concept by making a single modification that updates all linked CSS code automatically. 
+Editing the Sass code when a website update is required results in a cascading update across the entire codebase, doing away with the need for time-consuming manual search and replace chores. This functionality shows to be quite helpful in a development environment, saving a lot of time and improving process efficiency through streamlined and automated methods.
+
+
+Career/Employability/Learning Insights
+
+For front-end developers looking to write CSS code that is more efficient and manageable, learning Sass is a tremendous skill. Sass proficiency improves your marketability as a candidate for front-end development jobs and places you favourably in positions requiring knowledge of ancillary technologies like JavaScript and HTML. Gaining a thorough understanding of Sass's benefits and capabilities will greatly increase your confidence when working with CSS code and overcoming potential problems.
